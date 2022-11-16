@@ -1,3 +1,8 @@
 # Calculator_sem07
 Teamwork
-fff
+
+Андрей - 
+
+Валентин - 
+
+Надежда - 
