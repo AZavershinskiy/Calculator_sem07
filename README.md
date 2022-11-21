@@ -5,16 +5,19 @@
 ### Команда проекта
 
 1. Андрей - Teamlead (сборка + проверка кода + view.py)
-<https://github.com/AZavershinskiy/Calculator_sem07.git>
+    * [проект на GitHub](https://github.com/AZavershinskiy/Calculator_sem07.git)
 
 2. Валентин - math_f.py + main.py + блок-схема 
-<https://github.com/ValentinGolban99/Calculator_sem07.git>
+    * [проект на GitHub](https://github.com/ValentinGolban99/Calculator_sem07.git)
 
 3. Надежда - db.py + controller.py + файл README.md
- <https://github.com/NadezhdaBrin/Calculator_sem07.git>
+    * [проект на GitHub](https://github.com/NadezhdaBrin/Calculator_sem07.git)
 
-
+***
+ ### Блок-схема архитектуры программы Калькулятор
 * ![Блок-схема архитектуры программы Калькулятор](block_diagram.png)
+
+
 
 ### архитектура проекта
 
@@ -35,5 +38,4 @@
 
 * Создание модуля который управляет остальными модулями  `controller.py`
  
-### ЗАМЕТКА: 
-Каклькулятор пока что в наброске
+

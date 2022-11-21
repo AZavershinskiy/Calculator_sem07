@@ -1,7 +1,11 @@
-def saving_numbers(a, b, operation):
+from datetime import datetime as dt
+from time import time
+
+def saving_numbers(a, b, operation, result):
+    time = dt.now().strftime()
     path = 'Logs.txt'
     with open(path, 'a') as file:
-        file.write(f'{a}{operation}{b}\n')
+        file.write(f'{a}{operation}{b}={result}\n')
 
 
 def reading_number():
