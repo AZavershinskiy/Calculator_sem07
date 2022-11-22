@@ -1,5 +1,5 @@
 def number_request():
-    return int(input('Введите число: '))
+    return float(input('Введите число: '))
 
 
 def operation_request():
