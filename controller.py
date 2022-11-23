@@ -10,4 +10,3 @@ def сalculator():
     result = math_f.equation(operator, number_1, number_2)
     db.saving_numbers(number_1, number_2, operator, result)
     view.output(number_1, number_2, operator, result)
-    
